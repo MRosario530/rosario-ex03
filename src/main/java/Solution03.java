@@ -8,11 +8,11 @@ public class Solution03 {
 
     public static void main(String[] args) {
 	/*
-		print: What is the quote?
+	    print: What is the quote?
 	    'quote' = read string from user
 	    print: Who said it?
 	    'author' = read string from user
-		print: 'author' says, " 'quote' "
+	    print: 'author' says, " 'quote' "
 	*/
 
         Scanner input = new Scanner(System.in);
